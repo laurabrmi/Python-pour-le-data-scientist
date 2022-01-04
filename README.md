@@ -12,4 +12,4 @@ Nous chercherons ainsi à savoir si le prix des billets d’avion dépend de la 
 
 Afin de voir les différents déterminants du prix d’un billet d’avion, nous réaliserons également des régressions linéaires du prix en fonction de la distance, des horaires, des escales, des bagages, du type de la compagnie : low-cost ou traditionnelle, des émissions de CO2…
 
-Nous mettons également à disposition les tables csv que nous avons utilisées, elles sont disponible dans le github.
+Nous mettons également à disposition les tables csv (*dataframe_projet_python_01-02_01-03.csv* et *pays_continent.csv*) que nous avons utilisées, elles sont disponible dans le github.
