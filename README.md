@@ -11,3 +11,5 @@ pour les compagnies “low cost” et les compagnies “traditionnelles” en pr
 Nous chercherons ainsi à savoir si le prix des billets d’avion dépend de la distance parcourue entre la ville de départ et la ville d’arrivée. Nous représenterons une partie de nos résultats à travers une carte du monde qui illustrera les prix les moins chers au départ de Paris à une date donnée.
 
 Afin de voir les différents déterminants du prix d’un billet d’avion, nous réaliserons également des régressions linéaires du prix en fonction de la distance, des horaires, des escales, des bagages, du type de la compagnie : low-cost ou traditionnelle, des émissions de CO2…
+
+Nous mettons également à disposition les tables csv que nous avons utilisées, elles sont disponible dans le github.
