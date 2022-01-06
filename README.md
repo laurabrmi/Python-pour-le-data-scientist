@@ -1,5 +1,7 @@
 # Projet de fin de semestre (Python pour le Data Scientist) : "Quelle est la meilleure destination pour prendre l’avion de Paris ?"
 
+*Hélène Bonneau-Chloup & Laura Brahmi - 2A ENSAE  2021 2022*
+
 ### Présentation de notre sujet 
 
 Nous souhaitons étudier les prix des billets d’avions au départ de Paris à destination des plus grandes villes du monde (Londres, New-York, Tokyo …). Pour cela, nous allons utiliser les prix des vols disponibles sur le site de Kayak (webscraping), distinguer les compagnies low-cost des compagnies traditionnelles, horaire de départ, escales… Mais aussi la date de départ qui sera le paramètre de notre programme final qui donnera en sortie :
